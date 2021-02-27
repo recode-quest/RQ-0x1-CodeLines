@@ -25,6 +25,13 @@ ______ _____         ______       _____                 _
 
 Create an utility which counts lines of source code of your favourite language or a generic one. Consider all the mentioned stuff, summaries, stream-based block comments and nested comments. Does your approach work with every single possibility (you don't have to answer, try thinking about it)?
 
+## RULES
+
+1. You can work alone or collaborate in a team.
+2. Be honest. Try not to copy-paste other's solutions or chunks of libraries.
+3. You are working on your own EXP aka portfolio.
+4. You can use any technologies :)
+
 ## SOLUTIONS
 
 Assuming you want to be listed here, you need to supply your solution until 06.03.2021 18:00 CET and comply with [regulations](https://github.com/recode-quest/REGULATIONS).
