@@ -35,3 +35,6 @@ Create an utility which counts lines of source code of your favourite language o
 ## SOLUTIONS
 
 Assuming you want to be listed here, you need to supply your solution until 06.03.2021 18:00 CET and comply with [regulations](https://github.com/recode-quest/REGULATIONS).
+
+- [Pyoneru](https://github.com/Pyoneru/RQ-0x1-CodeLines)
+- [appollock](https://github.com/appollock/RQ-0x1-CodeLines)
